@@ -1,1 +1,1 @@
-# boots
+Follow edwith boostCourse-python ML
